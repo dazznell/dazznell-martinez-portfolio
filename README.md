@@ -18,9 +18,10 @@
 - [x] Finished Homepage
 - [x] Inputted images
 - [x] Working links
-- [ ] Markup rec-centre.html page
-- [ ] Markup musicamp.html page
-- [ ] Markup museum.html page
+- [x] Markup rec-centre.html page
+- [x] Markup musicamp.html page
+- [x] Markup museum.html page
+- [ ] Finalize website content (Copywrite)
 - [ ] Markup publish site
 
 
