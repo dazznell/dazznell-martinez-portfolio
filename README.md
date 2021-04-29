@@ -11,7 +11,8 @@
 1. Github
 1. Bootstrap
 1. Google Fonts
-1. Canva
+2. Squoosh
+3. Canva
 
 #### List of deliverables
 
